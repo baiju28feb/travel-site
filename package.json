@@ -4,5 +4,11 @@
   "dependencies": {
     "jquery": "^2.2.4",
     "normalize.css": "^4.1.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.4.3",
+    "gulp-postcss": "^8.0.0",
+    "postcss-nested": "^4.1.1",
+    "postcss-simple-vars": "^5.0.1"
   }
 }

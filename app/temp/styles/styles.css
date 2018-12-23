@@ -1,0 +1,15 @@
+body{
+    color: #2f5572;
+    font-family: 'Roberto',sans-serif;
+    color:#333;
+    -webkit-columns: 300px 4;
+            columns: 300px 4;
+}
+
+.box a {
+        display:block;
+    }
+
+.box h1{
+        color:white;
+    }
