@@ -1,0 +1,21 @@
+.generic-content {
+    p{
+        
+        font-size: 1rem;
+        
+        @mixin atMedium {
+            
+          font-size: 1.125rem;
+          line-height: 1.65rem;
+          margin: 2.5rem 0;
+          text-align: center;
+            
+        }
+        
+    }
+    
+    a{
+        font-weight: 700;
+        color: $mainOrange;
+    }
+}
